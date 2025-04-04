@@ -1,11 +1,10 @@
-# Movie-Revenue-Prediction
-📌 Project Structure:
-.
+# 🎬 Movie Revenue Prediction App
+## 📌 Project Structure:
+📁 project/
 ├── app.R                 # Shiny App UI + Server
 ├── rf_model.rds          # Trained Random Forest Model
 ├── imdb_movie_dataset.csv # Original dataset
 └── README.md             # Project documentation
-# 🎬 Movie Revenue Prediction App
 
 This Shiny app predicts the revenue (in millions) of a movie based on features like IMDb votes, metascore, runtime, and year using a trained Random Forest model.
 
