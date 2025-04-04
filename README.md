@@ -12,7 +12,7 @@ This Shiny app predicts the revenue (in millions) of a movie based on features l
 ## 🔍 Features
 - Clean and interactive UI with `shinythemes` and `shinyWidgets`
 - Predict revenue for a movie using a trained ML model
-- Deployed on [ShinyApps.io]([https://your-deployed-url](https://64pj3f-padala-sreethika.shinyapps.io/project/))
+- Deployed on [ShinyApps.io] ([https://your-deployed-url](https://64pj3f-padala-sreethika.shinyapps.io/project/))
 
 ## 📊 Technologies Used
 - R, Shiny
