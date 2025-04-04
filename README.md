@@ -61,4 +61,21 @@ The **rf_model.rds** file was created using the **randomForest** package. Featur
 3. Runtime..Minutes.
 4. Year
 
+## ▶️ Usage
+
+1. Launch the App (locally or via the provided ShinyApps.io link).
+2. Enter movie details:
+    IMDb Votes (e.g., 100000)
+    Metascore (e.g., 70)
+    Runtime (e.g., 120 minutes)
+    Year (e.g., 2020)
+3. Click on "🎬 Predict Revenue".
+4. View the predicted revenue (in millions) instantly!
+
+##  Future Enhancements
+
+1. Add more input features like genre, director, or actors.
+2. Include model performance metrics in the app.
+3. Deploy using Docker or on cloud platforms (e.g., AWS).
+4. Enable API-based prediction using Plumber.
 
