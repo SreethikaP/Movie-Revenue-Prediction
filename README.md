@@ -1,10 +1,6 @@
 # 🎬 Movie Revenue Prediction App
 ## 📌 Project Structure:
-📂 project
-│-- app.R                 # Shiny App UI + Server
-│-- rf_model.rds          # Trained Random Forest Model
-│-- imdb_movie_dataset.csv # Original dataset
-│-- README.md             # Project documentation
+📂 project/ │-- app.R # Shiny App UI + Server │-- rf_model.rds # Trained Random Forest Model │-- imdb_movie_dataset.csv # Original dataset │-- README.md # Project documentation
 
 
 
